@@ -41,9 +41,9 @@
 
 
 <p>
-  <h5>&nbsp; &nbsp; <b>TENSORFLO LITE DEKEGATE</b></h5>
+  <h5>&nbsp; &nbsp; <b>TENSORFLOW LITE DELEGATE</b></h5>
 
-   &nbsp; &nbsp; By default "Tensorflo Lite" use "CPU Kernels", which is not Optimized for "Heavy Arithmetic Operations" found in "Machine Learning Models" ("Neural Network").
+   &nbsp; &nbsp; By default "Tensorflow Lite" use "CPU Kernels", which is not Optimized for "Heavy Arithmetic Operations" found in "Machine Learning Models" ("Neural Network").
 
   &nbsp; &nbsp; That's why we use" Delegate", which enables "Hardware Acceleration" of "Tenserflo Lite Models" using "Accelerators" such as "GPU" and "DSP" ("Digital Signal Processor").
 
